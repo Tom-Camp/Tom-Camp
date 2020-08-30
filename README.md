@@ -1,5 +1,5 @@
 # Tom Camp
-----
+
 From Tomipedia, the fake encyclopedia
 
   _This article is about Tom Camp the software engineer. For other uses see Tom Camp (disambiguation)._
