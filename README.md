@@ -7,5 +7,6 @@ From Tomipedia, the fake encyclopedia
 **Tom Camp** is a software engineer, tinkerer, thinker... er, maker and breaker. 
 
 **Contents**
-1 [Recent Releases](#releases)
-2 [Other](#other)
+
+1. [Recent Releases](#releases)
+1. [Other](#other)
