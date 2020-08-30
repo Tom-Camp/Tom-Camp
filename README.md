@@ -1,12 +1,4 @@
 # Tom Camp
 
-From Tomipedia, the fake encyclopedia
-
-  _This article is about Tom Camp the software engineer. For other uses see Tom Camp (disambiguation)._
-
-**Tom Camp** is a software engineer, tinkerer, thinker... er, maker and breaker. 
-
-**Contents**
-
-1. [Recent Releases](#releases)
-1. [Other](#other)
+“The most disastrous thing that you can ever learn is your first programming language.”
+ ― **Alan Kay**
